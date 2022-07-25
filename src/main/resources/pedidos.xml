@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pedidos>
+    <pedido>
+        <categoria>INFORMÁTICA</categoria>
+        <produto>Notebook Samsung</produto>
+        <preco>3523.00</preco>
+        <quantidade>1</quantidade>
+        <data>01/01/2022</data>
+        <cliente>ANA</cliente>
+    </pedido>
+    <pedido>
+        <categoria>MÓVEIS</categoria>
+        <produto>Sofá 3 lugares</produto>
+        <preco>2500.00</preco>
+        <quantidade>1</quantidade>
+        <data>05/01/2022</data>
+        <cliente>ANA</cliente>
+    </pedido>
+    <pedido>
+        <categoria>LIVROS</categoria>
+        <produto>Clean Architecture</produto>
+        <preco>102.90</preco>
+        <quantidade>2</quantidade>
+        <data>08/01/2022</data>
+        <cliente>ANA</cliente>
+    </pedido>
+    <pedido>
+        <categoria>MÓVEIS</categoria>
+        <produto>Mesa de jantar 6 lugares</produto>
+        <preco>3678.98</preco>
+        <quantidade>1</quantidade>
+        <data>06/01/2022</data>
+        <cliente>ELI</cliente>
+    </pedido>
+    <pedido>
+        <categoria>CELULARES</categoria>
+        <produto>iPhone 13 Pro</produto>
+        <preco>9176.00</preco>
+        <quantidade>6</quantidade>
+        <data>13/01/2022</data>
+        <cliente>ANA</cliente>
+    </pedido>
+    <pedido>
+        <categoria>INFORMÁTICA</categoria>
+        <produto>Monitor Dell 27&quot;</produto>
+        <preco>1889.00</preco>
+        <quantidade>3</quantidade>
+        <data>04/01/2022</data>
+        <cliente>DANI</cliente>
+    </pedido>
+    <pedido>
+        <categoria>LIVROS</categoria>
+        <produto>Implementing Domain-Driven Design</produto>
+        <preco>144.07</preco>
+        <quantidade>3</quantidade>
+        <data>10/01/2022</data>
+        <cliente>GABI</cliente>
+    </pedido>
+    <pedido>
+        <categoria>AUTOMOTIVA</categoria>
+        <produto>Jogo de pneus</produto>
+        <preco>1276.79</preco>
+        <quantidade>1</quantidade>
+        <data>15/01/2022</data>
+        <cliente>BIA</cliente>
+    </pedido>
+    <pedido>
+        <categoria>LIVROS</categoria>
+        <produto>Clean Code</produto>
+        <preco>95.17</preco>
+        <quantidade>1</quantidade>
+        <data>09/01/2022</data>
+        <cliente>BIA</cliente>
+    </pedido>
+    <pedido>
+        <categoria>CELULARES</categoria>
+        <produto>Galaxy S22 Ultra</produto>
+        <preco>8549.10</preco>
+        <quantidade>5</quantidade>
+        <data>14/01/2022</data>
+        <cliente>DANI</cliente>
+    </pedido>
+    <pedido>
+        <categoria>INFORMÁTICA</categoria>
+        <produto>Macbook Pro 16&quot;</produto>
+        <preco>31752.00</preco>
+        <quantidade>1</quantidade>
+        <data>03/01/2022</data>
+        <cliente>CAIO</cliente>
+    </pedido>
+    <pedido>
+        <categoria>LIVROS</categoria>
+        <produto>Refactoring Improving the Design of Existing Code</produto>
+        <preco>173.90</preco>
+        <quantidade>1</quantidade>
+        <data>12/01/2022</data>
+        <cliente>DANI</cliente>
+    </pedido>
+    <pedido>
+        <categoria>MÓVEIS</categoria>
+        <produto>Cama queen size</produto>
+        <preco>3100.00</preco>
+        <quantidade>2</quantidade>
+        <data>07/01/2022</data>
+        <cliente>DANI</cliente>
+    </pedido>
+    <pedido>
+        <categoria>AUTOMOTIVA</categoria>
+        <produto>Central multimidia</produto>
+        <preco>711.18</preco>
+        <quantidade>1</quantidade>
+        <data>16/01/2022</data>
+        <cliente>CAIO</cliente>
+    </pedido>
+    <pedido>
+        <categoria>LIVROS</categoria>
+        <produto>Building Microservices</produto>
+        <preco>300.28</preco>
+        <quantidade>2</quantidade>
+        <data>11/01/2022</data>
+        <cliente>CAIO</cliente>
+    </pedido>
+    <pedido>
+        <categoria>INFORMÁTICA</categoria>
+        <produto>Galaxy Tab S8</produto>
+        <preco>5939.10</preco>
+        <quantidade>4</quantidade>
+        <data>02/01/2022</data>
+        <cliente>BIA</cliente>
+    </pedido>
+</pedidos>
