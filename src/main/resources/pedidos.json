@@ -1,0 +1,130 @@
+[
+  {
+    "categoria": "INFORMÁTICA",
+    "produto": "Notebook Samsung",
+    "preco": 3523,
+    "quantidade": 1,
+    "data": "01/01/2022",
+    "cliente": "ANA"
+  },
+  {
+    "categoria": "MÓVEIS",
+    "produto": "Sofá 3 lugares",
+    "preco": 2500,
+    "quantidade": 1,
+    "data": "05/01/2022",
+    "cliente": "ANA"
+  },
+  {
+    "categoria": "LIVROS",
+    "produto": "Clean Architecture",
+    "preco": 102.9,
+    "quantidade": 2,
+    "data": "08/01/2022",
+    "cliente": "ANA"
+  },
+  {
+    "categoria": "MÓVEIS",
+    "produto": "Mesa de jantar 6 lugares",
+    "preco": 3678.98,
+    "quantidade": 1,
+    "data": "06/01/2022",
+    "cliente": "ELI"
+  },
+  {
+    "categoria": "CELULARES",
+    "produto": "iPhone 13 Pro",
+    "preco": 9176,
+    "quantidade": 6,
+    "data": "13/01/2022",
+    "cliente": "ANA"
+  },
+  {
+    "categoria": "INFORMÁTICA",
+    "produto": "Monitor Dell 27",
+    "preco": 1889,
+    "quantidade": 3,
+    "data": "04/01/2022",
+    "cliente": "DANI"
+  },
+  {
+    "categoria": "LIVROS",
+    "produto": "Implementing Domain-Driven Design",
+    "preco": 144.07,
+    "quantidade": 3,
+    "data": "10/01/2022",
+    "cliente": "GABI"
+  },
+  {
+    "categoria": "AUTOMOTIVA",
+    "produto": "Jogo de pneus",
+    "preco": 1276.79,
+    "quantidade": 1,
+    "data": "15/01/2022",
+    "cliente": "BIA"
+  },
+  {
+    "categoria": "LIVROS",
+    "produto": "Clean Code",
+    "preco": 95.17,
+    "quantidade": 1,
+    "data": "09/01/2022",
+    "cliente": "BIA"
+  },
+  {
+    "categoria": "CELULARES",
+    "produto": "Galaxy S22 Ultra",
+    "preco": 8549.1,
+    "quantidade": 5,
+    "data": "14/01/2022",
+    "cliente": "DANI"
+  },
+  {
+    "categoria": "INFORMÁTICA",
+    "produto": "Macbook Pro 16",
+    "preco": 31752,
+    "quantidade": 1,
+    "data": "03/01/2022",
+    "cliente": "CAIO"
+  },
+  {
+    "categoria": "LIVROS",
+    "produto": "Refactoring Improving the Design of Existing Code",
+    "preco": 173.9,
+    "quantidade": 1,
+    "data": "12/01/2022",
+    "cliente": "DANI"
+  },
+  {
+    "categoria": "MÓVEIS",
+    "produto": "Cama queen size",
+    "preco": 3100,
+    "quantidade": 2,
+    "data": "07/01/2022",
+    "cliente": "DANI"
+  },
+  {
+    "categoria": "AUTOMOTIVA",
+    "produto": "Central multimidia",
+    "preco": 711.18,
+    "quantidade": 1,
+    "data": "16/01/2022",
+    "cliente": "CAIO"
+  },
+  {
+    "categoria": "LIVROS",
+    "produto": "Building Microservices",
+    "preco": 300.28,
+    "quantidade": 2,
+    "data": "11/01/2022",
+    "cliente": "CAIO"
+  },
+  {
+    "categoria": "INFORMÁTICA",
+    "produto": "Galaxy Tab S8",
+    "preco": 5939.1,
+    "quantidade": 4,
+    "data": "02/01/2022",
+    "cliente": "BIA"
+  }
+]
